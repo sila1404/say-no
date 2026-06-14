@@ -1,0 +1,812 @@
+[
+  {
+    "id": "in-a-different-season",
+    "text": "In einem anderen Lebensabschnitt würde ich vielleicht Ja sagen – aber nicht im Moment.",
+    "category": "polite"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "Ich weiß das zu schätzen, aber ich kann mich aktuell nicht festlegen, das zu verfolgen.",
+    "category": "work"
+  },
+  {
+    "id": "every-time-i-think",
+    "text": "Jedes Mal, wenn ich darüber nachdenke, höre ich ein leises „Nein“ im Wind.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-future-self-wrote",
+    "text": "Mein zukünftiges Ich hat mir einen Zettel geschrieben: „Bitte tu das nicht noch einmal.“",
+    "category": "absurd"
+  },
+  {
+    "id": "it-sounds-interesting-but",
+    "text": "Es klingt interessant, aber ich bin nicht die beste Person dafür.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-appreciate-the-thought",
+    "text": "Ich danke dir für das Angebot, aber es passt im Moment einfach nicht zu mir.",
+    "category": "polite"
+  },
+  {
+    "id": "id-love-to-say",
+    "text": "Ich würde gerne Ja sagen, aber ich habe mir fest vorgenommen, diese Woche weniger fragwürdige Dinge zu tun.",
+    "category": "work"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "Ich weiß es zu schätzen, aber ich kann mich nicht dazu verpflichten, das in Betracht zu ziehen.",
+    "category": "work"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "Ich weiß es zu schätzen, aber ich kann mich nicht dazu verpflichten, mich hierfür ehrenamtlich zu engagieren.",
+    "category": "work"
+  },
+  {
+    "id": "im-trying-to-be",
+    "text": "Ich versuche, bewusster zu entscheiden, wozu ich Ja sage, und das hier passt nicht ganz.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-want-to-be",
+    "text": "Ich möchte ehrlich zu dir sein – ich fühle mich nicht wohl dabei, mich darauf festzulegen.",
+    "category": "work"
+  },
+  {
+    "id": "i-have-to-trust",
+    "text": "Ich muss auf mein Bauchgefühl hören – und das deutet sanft auf ein Nein hin.",
+    "category": "polite"
+  },
+  {
+    "id": "saying-no-to-this",
+    "text": "Hierzu Nein zu sagen hilft mir, Ja zu etwas zu sagen, das mir wichtiger ist.",
+    "category": "absurd"
+  },
+  {
+    "id": "if-i-said-yes",
+    "text": "Wenn ich Ja sagen würde, würde ich uns beide anlügen – und mein Therapeut hat gesagt, ich soll damit aufhören.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-going-to-respectfully",
+    "text": "Ich muss dankend ablehnen. Das passt nicht zu dem Weg, den ich gerade einschlage.",
+    "category": "polite"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "Ich weiß es zu schätzen, aber ich kann mich nicht dazu verpflichten, das zu versuchen.",
+    "category": "work"
+  },
+  {
+    "id": "this-opportunity-deserves-more",
+    "text": "Diese Gelegenheit verdient mehr Aufmerksamkeit, als ich ihr im Moment schenken kann.",
+    "category": "work"
+  },
+  {
+    "id": "i-dont-hate-the",
+    "text": "Ich hasse die Idee nicht – aber ich will es auch einfach nicht tun.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-not-in-a",
+    "text": "Ich bin derzeit nicht in der Lage, mich darauf einzulassen.",
+    "category": "work"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "Ich weiß es zu schätzen, aber ich kann mich nicht dazu verpflichten, das genauer zu untersuchen.",
+    "category": "work"
+  },
+  {
+    "id": "ive-made-peace-with",
+    "text": "Ich habe meinen Frieden damit gemacht, Dinge abzulehnen, die mir keine Energie geben.",
+    "category": "absurd"
+  },
+  {
+    "id": "even-my-calendar-laughed",
+    "text": "Sogar mein Kalender hat gelacht, als ich versucht habe, das noch reinzuquetschen.",
+    "category": "work"
+  },
+  {
+    "id": "ive-decided-to-hold",
+    "text": "Ich habe beschlossen, mich vorerst mit neuen Verpflichtungen zurückzuhalten.",
+    "category": "absurd"
+  },
+  {
+    "id": "this-feels-like-something",
+    "text": "Das fühlt sich an wie etwas, wofür mein zukünftiges Ich mein jetziges Ich anschreien würde, wenn ich zusagte.",
+    "category": "absurd"
+  },
+  {
+    "id": "ive-tried-doing-too",
+    "text": "Ich habe schon mal versucht, zu viel auf einmal zu tun, und das hier fühlt sich wie ein Déjà-vu an.",
+    "category": "absurd"
+  },
+  {
+    "id": "youve-put-great-energy",
+    "text": "Du hast viel Energie in diese Sache gesteckt, und ich hoffe, du verstehst meine Entscheidung, mich herauszuhalten.",
+    "category": "polite"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "Ich weiß es zu schätzen, aber ich kann mich nicht dazu verpflichten, hier mitzumachen.",
+    "category": "work"
+  },
+  {
+    "id": "this-is-a-great",
+    "text": "Das ist eine großartige Idee – für jemand anderen, der sie übernimmt.",
+    "category": "absurd"
+  },
+  {
+    "id": "the-version-of-me",
+    "text": "Die Version von mir, die zu so etwas Ja sagt, existiert nicht mehr.",
+    "category": "absurd"
+  },
+  {
+    "id": "even-my-coffee-said",
+    "text": "Selbst mein Kaffee hat gesagt: „Heute nicht.“",
+    "category": "absurd"
+  },
+  {
+    "id": "my-inner-peace-committee",
+    "text": "Mein inneres Friedenskomitee hat diese Idee einstimmig abgelehnt.",
+    "category": "work"
+  },
+  {
+    "id": "i-know-how-much",
+    "text": "Ich weiß, wie wichtig das ist, aber ich kann dem Ganzen nicht die Aufmerksamkeit schenken, die es verdient.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-had-a-vision",
+    "text": "Ich hatte die Vision, das zu tun – und bin dann prompt dabei eingeschlafen.",
+    "category": "absurd"
+  },
+  {
+    "id": "mentally-ive-already-left",
+    "text": "Gedanklich habe ich den Raum, in dem das stattfinden würde, schon verlassen.",
+    "category": "absurd"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "Ich weiß es zu schätzen, aber ich kann mich nicht dazu verpflichten, das anzunehmen.",
+    "category": "work"
+  },
+  {
+    "id": "this-doesnt-align-with",
+    "text": "Das deckt sich nicht mit meinen Werten oder meinem aktuellen Fokus.",
+    "category": "polite"
+  },
+  {
+    "id": "please-know-that-my",
+    "text": "Bitte wisse, dass meine Entscheidung nichts mit dir zu tun hat – es liegt nur an meinen eigenen Grenzen.",
+    "category": "polite"
+  },
+  {
+    "id": "i-respect-the-opportunity",
+    "text": "Ich respektiere die Chance, aber ich kenne meine Grenzen – und das würde sie zu weit strapazieren.",
+    "category": "work"
+  },
+  {
+    "id": "if-i-took-this",
+    "text": "Wenn ich das übernehmen würde, würde ich die Zeit verraten, die ich mir selbst versprochen habe.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-once-made-a",
+    "text": "Ich habe einmal eine ähnliche Entscheidung getroffen, und meine Katze hat mich seitdem nicht mehr angesehen. Lass uns die Geschichte nicht wiederholen.",
+    "category": "absurd"
+  },
+  {
+    "id": "if-i-agree-id",
+    "text": "Wenn ich zustimme, müsste ich mich selbst klonen. Und ich vertraue dem Klon nicht.",
+    "category": "absurd"
+  },
+  {
+    "id": "this-one-doesnt-feel",
+    "text": "Das fühlt sich nicht ganz richtig an, also passe ich dieses Mal.",
+    "category": "absurd"
+  },
+  {
+    "id": "id-rather-say-no",
+    "text": "Ich sage lieber ehrlich Nein, als mit Groll im Bauch Ja.",
+    "category": "polite"
+  },
+  {
+    "id": "thanks-for-thinking-of",
+    "text": "Danke, dass du an mich gedacht hast, aber dieses Mal muss ich passen.",
+    "category": "polite"
+  },
+  {
+    "id": "ive-taken-some-time",
+    "text": "Ich habe mir etwas Zeit zum Nachdenken genommen und glaube, dass es für den Moment die richtige Entscheidung ist, zu passen.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-truly-value-our",
+    "text": "Ich schätze unsere Verbindung sehr und hoffe, dass mein Nein daran nichts ändert.",
+    "category": "absurd"
+  },
+  {
+    "id": "its-not-a-no",
+    "text": "Es ist kein Nein für immer, aber es ist ein Nein für den Moment.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-enthusiasm-is-sincere",
+    "text": "Meine Begeisterung ist echt, aber meine Verfügbarkeit ist frei erfunden.",
+    "category": "absurd"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "Ich weiß es zu schätzen, aber ich kann mich nicht dazu verpflichten, mich darauf einzulassen.",
+    "category": "work"
+  },
+  {
+    "id": "at-this-point-i",
+    "text": "Zum jetzigen Zeitpunkt habe ich einfach nicht die Kapazitäten, um dem Ganzen gerecht zu werden.",
+    "category": "work"
+  },
+  {
+    "id": "ive-learned-to-protect",
+    "text": "Ich habe gelernt, meine Zeit zu schützen, und das passt nicht dazu, wie ich sie verbringen möchte.",
+    "category": "absurd"
+  },
+  {
+    "id": "thats-not-something-i",
+    "text": "Das ist etwas, das ich im Moment nicht priorisieren kann.",
+    "category": "work"
+  },
+  {
+    "id": "if-i-said-yes",
+    "text": "Wenn ich Ja sagen würde, könnte das Universum vor Schock kollabieren.",
+    "category": "absurd"
+  },
+  {
+    "id": "if-i-agree-it",
+    "text": "Wenn ich zustimme, könnte das das Raum-Zeit-Kontinuum zerstören.",
+    "category": "absurd"
+  },
+  {
+    "id": "helping-you-now-could",
+    "text": "Dir jetzt zu helfen, könnte ein Zeitparadoxon auslösen – gehen wir lieber kein Risiko ein.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-cant-im-busy",
+    "text": "Ich kann nicht, ich bin damit beschäftigt, eine Zukunft zu verhindern, in der ich tatsächlich Ja sage.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-calendar-is-aligned",
+    "text": "Mein Kalender ist nach dem Jupiter ausgerichtet, und die Sterne sagen Nein.",
+    "category": "work"
+  },
+  {
+    "id": "im-pretty-sure-saying",
+    "text": "Ich bin mir ziemlich sicher, dass Ja-Sagen in dieser Galaxie verboten ist.",
+    "category": "absurd"
+  },
+  {
+    "id": "the-multiverse-would-never",
+    "text": "Das Multiversum würde mir nie verzeihen, wenn ich nachgäbe.",
+    "category": "absurd"
+  },
+  {
+    "id": "any-timeline-where-i",
+    "text": "Jede Zeitlinie, in der ich Ja sage, endet im Chaos, also wähle ich klug.",
+    "category": "absurd"
+  },
+  {
+    "id": "me-agreeing-thats-like",
+    "text": "Dass ich zustimme? Das ist, als würde man durch Null teilen – gefährlich und nicht erlaubt.",
+    "category": "absurd"
+  },
+  {
+    "id": "accepting-that-offer-would",
+    "text": "Dieses Angebot anzunehmen würde einen Fehler in der Matrix verursachen.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-currently-booked-for",
+    "text": "Ich bin für das nächste Jahrzehnt damit ausgebucht, so zu tun, als sei ich produktiv.",
+    "category": "work"
+  },
+  {
+    "id": "id-love-to-but",
+    "text": "Ich würde ja gerne, aber ich bin vollauf damit beschäftigt, die Deckenplatten zu zählen.",
+    "category": "absurd"
+  },
+  {
+    "id": "sorry-im-too-busy",
+    "text": "Tut mir leid, ich bin zu beschäftigt damit, meine Schublade mit den Socken nach Farbe und Stimmung zu sortieren.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-have-a-meeting",
+    "text": "Ich habe ein Meeting mit meiner Couch und sie akzeptiert kein Nein.",
+    "category": "work"
+  },
+  {
+    "id": "ive-got-a-calendar",
+    "text": "Ich habe genau zu der Zeit eine Kalenderbenachrichtigung, um einfach dazusitzen und ins Leere zu starren.",
+    "category": "work"
+  },
+  {
+    "id": "my-schedule-is-full",
+    "text": "Mein Zeitplan ist voll: Ich alphabetisiere gerade meine Snacks.",
+    "category": "work"
+  },
+  {
+    "id": "i-need-to-finish",
+    "text": "Ich muss erst eine intensive Sitzung des absoluten Nichtstuns beenden.",
+    "category": "absurd"
+  },
+  {
+    "id": "ive-a-prior-commitment",
+    "text": "Ich habe eine vorherige Verpflichtung, Farbe beim Trocknen zuzusehen.",
+    "category": "work"
+  },
+  {
+    "id": "im-in-the-middle",
+    "text": "Ich stecke mitten in einem sehr wichtigen Aufschiebe-Marathon.",
+    "category": "work"
+  },
+  {
+    "id": "i-cant-im-attending",
+    "text": "Ich kann nicht; ich nehme an der feierlichen Eröffnung meines Kühlschranks teil.",
+    "category": "absurd"
+  },
+  {
+    "id": "id-help-but-my",
+    "text": "Ich würde helfen, aber mein imaginärer Freund braucht mich dringender.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-cant-my-pet",
+    "text": "Ich kann nicht; mein Haustier-Stein hat gerade eine emotionale Krise.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-goldfish-is-getting",
+    "text": "Mein Goldfisch heiratet an dem Tag, da muss ich hin.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-promised-my-imaginary",
+    "text": "Ich habe meiner imaginären Katze versprochen, heute Abend zu Hause zu bleiben.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-guardian-unicorn-says",
+    "text": "Mein Schutzeinhorn sagt, ich sollte nicht.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-have-to-babysit",
+    "text": "Ich muss auf die imaginären Kinder meines imaginären Freundes aufpassen.",
+    "category": "absurd"
+  },
+  {
+    "id": "unfortunately-im-volunteering-as",
+    "text": "Leider arbeite ich ehrenamtlich als Vorkoster für die neue Diät meines Haustiers.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-pet-dragon-has",
+    "text": "Mein Haustier-Drache hat einen Tierarzttermin, den kann ich nicht verpassen.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-grounded-by-my",
+    "text": "Ich habe von meinem Haustier-Papagei Hausarrest wegen schlechten Benehmens bekommen, also kann ich nicht weg.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-lent-my-time",
+    "text": "Ich habe meine Zeitmaschine einem Freund geliehen und kann jetzt nicht zurückreisen, um diesen Nachmittag freizuschaufeln.",
+    "category": "absurd"
+  },
+  {
+    "id": "ive-made-a-vow",
+    "text": "Ich habe das Gelübde abgelegt, jede Form von Produktivität zu vermeiden.",
+    "category": "absurd"
+  },
+  {
+    "id": "its-against-my-personal",
+    "text": "Es verstößt gegen meine persönliche Religion, heute irgendetwas Nützliches zu tun.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-psychiatrist-advised-me",
+    "text": "Mein Psychiater hat mir geraten, potenziell unterhaltsame Aktivitäten zu meiden.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-swore-an-oath",
+    "text": "Ich habe einen Eid geschworen, dass ich alle Anfragen aus einer Laune heraus ablehnen muss.",
+    "category": "polite"
+  },
+  {
+    "id": "i-only-function-on",
+    "text": "Ich funktioniere nur mit Kaffee und Verdrängung, und der Kaffee ist alle.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-allergic-to-any",
+    "text": "Ich bin allergisch gegen jede Form von Verantwortung.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-have-a-doctors",
+    "text": "Ich habe ein ärztliches Attest, das mir das Helfen ausdrücklich verbietet.",
+    "category": "absurd"
+  },
+  {
+    "id": "id-love-to-help",
+    "text": "Ich würde gerne helfen, aber ich versuche gerade, meine Strähne an Hilfsbereitschaft zu brechen.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-procrastination-coach-said",
+    "text": "Mein Prokrastinations-Coach meinte, ich sei noch nicht bereit für echte Aufgaben.",
+    "category": "work"
+  },
+  {
+    "id": "i-gave-up-saying",
+    "text": "Ich habe für die Fastenzeit aufgegeben, Ja zu sagen, und sie ist noch nicht vorbei.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-have-a-personal",
+    "text": "Ich habe die persönliche Richtlinie, an Tagen, die mit „g“ enden oder ein „a“ haben, Nein zu sagen.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-phones-calendar-just",
+    "text": "Der Kalender meines Handys hat sich gerade an den Kopf gefasst, weil ich es überhaupt in Erwägung gezogen habe.",
+    "category": "work"
+  },
+  {
+    "id": "i-have-to-update",
+    "text": "Ich muss erst meinen Social-Media-Status auf „beschäftigt mit Nichtstun“ aktualisieren.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-currently-trending-towards",
+    "text": "Ich tendiere derzeit stark zu einem „Nein“.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-canti-promised-netflix",
+    "text": "Ich kann nicht – ich habe Netflix versprochen, zu Hause zu bleiben und Filme zu schauen.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-wi-fi-of-motivation",
+    "text": "Das WLAN meiner Motivation hat die Verbindung verloren.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-waiting-for-my",
+    "text": "Ich warte darauf, dass mein Handy lädt – vor 100 % kann ich absolut nichts tun.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-bio-on-twitter",
+    "text": "In meiner Twitter-Bio steht „Sagt oft Nein“, ich muss meiner Marke treu bleiben.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-busy-searching-for",
+    "text": "Ich suche gerade auf Google nach Motivation; keine Ergebnisse gefunden.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-stuck-in-an",
+    "text": "Ich stecke in einem Internet-Kaninchenbau fest und finde den Ausgang nicht.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-cant-come-im",
+    "text": "Ich kann nicht kommen; ich bin in einem Zoom-Call mit meiner Couch.",
+    "category": "work"
+  },
+  {
+    "id": "i-would-love-to",
+    "text": "Ich würde es liebend gerne tun, aber ich möchte lieber nicht.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-answer-is-a",
+    "text": "Meine Antwort ist ein Nein – frisch gebacken, nur für dich.",
+    "category": "absurd"
+  },
+  {
+    "id": "ive-considered-it-thoroughly",
+    "text": "Ich habe es gründlich bedacht und bleibe bei einem harten Nein.",
+    "category": "absurd"
+  },
+  {
+    "id": "not-even-if-there",
+    "text": "Nicht einmal, wenn es gratis Donuts gäbe.",
+    "category": "absurd"
+  },
+  {
+    "id": "this-is-the-part",
+    "text": "Das ist der Teil, in dem ich „Nein“ sage und wir beide weitermachen.",
+    "category": "absurd"
+  },
+  {
+    "id": "let-me-check-my",
+    "text": "Lass mich kurz meinen Zeitplan prüfen... oh sieh mal, es ist ein permanentes Nein.",
+    "category": "work"
+  },
+  {
+    "id": "im-flattered-you-asked",
+    "text": "Ich fühle mich geschmeichelt, dass du fragst, aber ich lehne dankend ab.",
+    "category": "polite"
+  },
+  {
+    "id": "ive-reached-my-quota",
+    "text": "Ich habe mein Kontingent an Zusagen für dieses Jahr bereits erschöpft.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-too-cool-to",
+    "text": "Ich bin einfach zu cool, um dazu Ja zu sagen.",
+    "category": "absurd"
+  },
+  {
+    "id": "as-the-saying-goes",
+    "text": "Wie das Sprichwort sagt: „Nö, nö, nö.“",
+    "category": "absurd"
+  },
+  {
+    "id": "you-dont-want-me",
+    "text": "Du willst gar nicht, dass ich Ja sage – vertrau mir, es ist für das Allgemeinwohl.",
+    "category": "absurd"
+  },
+  {
+    "id": "the-last-time-i",
+    "text": "Als ich das letzte Mal Ja gesagt habe, hat es 40 Tage lang geregnet. Das mache ich nicht noch mal.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-promised-my-future",
+    "text": "Ich habe meinem zukünftigen Ich versprochen, dieses Mal Nein zu sagen.",
+    "category": "absurd"
+  },
+  {
+    "id": "if-i-agreed-id",
+    "text": "Wenn ich zustimmen würde, müsste ich das meinem Therapeuten erklären.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-past-experiences-with",
+    "text": "Meine früheren Erfahrungen mit dem Ja-Sagen waren traumatisch.",
+    "category": "absurd"
+  },
+  {
+    "id": "saying-yes-is-on",
+    "text": "Ja-Sagen steht auf meiner Liste der Dinge, mit denen ich aufhören will.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-would-but-then",
+    "text": "Ich würde ja, aber dann müsste ich zugeben, dass ich Unrecht hatte, als ich sagte, ich hasse alles.",
+    "category": "absurd"
+  },
+  {
+    "id": "the-universe-gave-me",
+    "text": "Das Universum hat mir ein Zeichen gegeben, Nein zu sagen (es war ein Neonschild, sehr eindeutig).",
+    "category": "absurd"
+  },
+  {
+    "id": "i-once-said-yes",
+    "text": "Ich habe einmal Ja gesagt. Es endete nicht gut. Es waren Lamas involviert.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-gut-feeling-and",
+    "text": "Mein Bauchgefühl und ich haben einstimmig für Nein gestimmt.",
+    "category": "polite"
+  },
+  {
+    "id": "that-sounds-like-an",
+    "text": "Das klingt nach einer fantastischen Gelegenheit... für jemand anderen.",
+    "category": "work"
+  },
+  {
+    "id": "what-a-great-idea",
+    "text": "Was für eine tolle Idee! Ich bin traurig, dass ich nicht dabei sein kann. Na ja, nicht ganz so traurig.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-envy-the-people",
+    "text": "Ich beneide die Leute, die Ja zu dir sagen werden, wirklich.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-absolutely-adore-the",
+    "text": "Ich liebe das Konzept absolut, aber ich werde dieses Mal aussetzen müssen.",
+    "category": "absurd"
+  },
+  {
+    "id": "brilliant-plan-unfortunately-im",
+    "text": "Brillanter Plan! Leider bin ich im Zeugenschutzprogramm vor guten Ideen.",
+    "category": "absurd"
+  },
+  {
+    "id": "that-would-be-a",
+    "text": "Das wäre ein wahr gewordener Traum. Schade, dass ich wach bin und Nein sage.",
+    "category": "absurd"
+  },
+  {
+    "id": "youve-painted-such-a",
+    "text": "Du hast so ein schönes Bild gemalt, ich werde es aus der Ferne bewundern.",
+    "category": "absurd"
+  },
+  {
+    "id": "such-a-generous-offer",
+    "text": "Was für ein großzügiges Angebot! Ich werde es großzügig ablehnen.",
+    "category": "polite"
+  },
+  {
+    "id": "im-sure-itll-be",
+    "text": "Ich bin sicher, es wird ein voller Erfolg, aber ich werde es nur aus der Ferne bewundern.",
+    "category": "absurd"
+  },
+  {
+    "id": "sounds-thrilling-im-already",
+    "text": "Klingt aufregend! Ich bin allein vom Drübernachdenken schon müde.",
+    "category": "absurd"
+  },
+  {
+    "id": "ive-already-changed-into",
+    "text": "Ich habe schon meinen Schlafanzug an, also wird das nichts.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-couch-has-declared",
+    "text": "Meine Couch hat eine Flugverbotszone ausgerufen und ich halte mich daran.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-cant-be-bothered",
+    "text": "Ich kann mich nicht dazu aufraffen, mich aus meinem gemütlichen Decken-Burrito zu schälen.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-saving-my-energy",
+    "text": "Ich spare meine Energie für ein episches Nickerchen.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-too-lazy-to",
+    "text": "Ich bin zu faul, mir überhaupt eine gute Ausrede einfallen zu lassen, also einfach: Nein.",
+    "category": "absurd"
+  },
+  {
+    "id": "moving-from-this-spot",
+    "text": "Mich von dieser Stelle wegzubewegen erfordert eine Vorankündigung von 24 Stunden.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-conserving-energy-today",
+    "text": "Ich schone heute meine Energie, ohne besonderen Grund.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-would-but-that",
+    "text": "Ich würde ja, aber das klingt nach Anstrengung und dagegen bin ich allergisch.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-currently-experiencing-technical",
+    "text": "Ich habe derzeit technische Probleme mit meinen Bewegungsfunktionen.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-practicing-for-a",
+    "text": "Ich trainiere für einen Marathon im Nichtbewegen.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-have-to-wash",
+    "text": "In dem Jahrzehnt muss ich mir leider die Haare waschen.",
+    "category": "absurd"
+  },
+  {
+    "id": "ive-got-to-defrost",
+    "text": "Ich muss den Eisberg in meinem Gefrierfach abtauen.",
+    "category": "absurd"
+  },
+  {
+    "id": "sorry-i-need-to",
+    "text": "Tut mir leid, ich muss an dem Abend meine Unterwäsche bügeln.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-must-attend-to",
+    "text": "Ich muss mich um meinen Garten aus Plastikblumen kümmern.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-fish-needs-a",
+    "text": "Mein Fisch muss Gassi gehen und das geht vor.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-have-to-rotate",
+    "text": "Ich muss die Reifen an meinem Bürostuhl wechseln.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-marathoning-a-series",
+    "text": "Ich mache gerade einen Marathon darin, Hausarbeit in meinem Kopf zu erledigen.",
+    "category": "absurd"
+  },
+  {
+    "id": "the-dishes-threatened-to",
+    "text": "Das Geschirr hat mit einer Revolte gedroht, wenn ich es noch mal alleine lasse.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-fridge-and-i",
+    "text": "Mein Kühlschrank und ich haben zu der Zeit eine Paartherapie.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-need-to-sit",
+    "text": "Ich muss hier aussetzen, während ich meinen Socken-Zoo sortiere.",
+    "category": "absurd"
+  },
+  {
+    "id": "in-an-alternate-universe",
+    "text": "In einem alternativen Universum habe ich das total erledigt. Nur eben nicht in diesem.",
+    "category": "absurd"
+  },
+  {
+    "id": "maybe-in-my-next",
+    "text": "Vielleicht ziehe ich es in meinem nächsten Leben in Betracht, aber mein aktuelles Ich sagt Nein.",
+    "category": "absurd"
+  },
+  {
+    "id": "in-a-parallel-dimension",
+    "text": "In einer Paralleldimension bin ich schon voll dabei – blöd nur, dass wir hier sind.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-consulted-my-alternate",
+    "text": "Ich habe mein alternatives Ich gefragt; es hat ebenfalls abgelehnt.",
+    "category": "polite"
+  },
+  {
+    "id": "if-i-clone-myself",
+    "text": "Wenn ich mich klone, schicke ich den Klon. Bis dahin: Nein.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-checked-with-future",
+    "text": "Ich habe bei meinem zukünftigen Ich nachgefragt und es hat nur mit den Augen gerollt, also passe ich.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-stuck-in-a",
+    "text": "Ich stecke in einer Zeitschleife fest, in der ich ständig Nein sage.",
+    "category": "absurd"
+  },
+  {
+    "id": "in-an-alternate-timeline",
+    "text": "In einer alternativen Zeitlinie habe ich Ja gesagt und es hat eine Zombie-Apokalypse ausgelöst.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-evil-twin-might",
+    "text": "Mein böser Zwilling hat vielleicht Interesse; frag am besten den.",
+    "category": "absurd"
+  }
+]

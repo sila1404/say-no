@@ -1,0 +1,812 @@
+[
+  {
+    "id": "in-a-different-season",
+    "text": "In a different season of life, I might say yes—but not right now.",
+    "category": "polite"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "While I appreciate it, pursuing this isn't something I can commit to.",
+    "category": "work"
+  },
+  {
+    "id": "every-time-i-think",
+    "text": "Every time I think about it, I hear a tiny ‘nope’ in the wind.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-future-self-wrote",
+    "text": "My future self wrote me a note: ‘Please don’t do this again.’",
+    "category": "absurd"
+  },
+  {
+    "id": "it-sounds-interesting-but",
+    "text": "It sounds interesting, but I’m not the best person for this.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-appreciate-the-thought",
+    "text": "I appreciate the thought, but it’s not the right fit for me right now.",
+    "category": "polite"
+  },
+  {
+    "id": "id-love-to-say",
+    "text": "I'd love to say yes, but I just made a commitment to do less questionable things this week.",
+    "category": "work"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "While I appreciate it, considering this isn't something I can commit to.",
+    "category": "work"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "While I appreciate it, volunteering for this isn't something I can commit to.",
+    "category": "work"
+  },
+  {
+    "id": "im-trying-to-be",
+    "text": "I'm trying to be more intentional with what I agree to, and this doesn’t quite fit.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-want-to-be",
+    "text": "I want to be honest with you—I don’t feel comfortable committing to this.",
+    "category": "work"
+  },
+  {
+    "id": "i-have-to-trust",
+    "text": "I have to trust my gut—and it's gently suggesting a no.",
+    "category": "polite"
+  },
+  {
+    "id": "saying-no-to-this",
+    "text": "Saying no to this helps me say yes to something that matters more to me.",
+    "category": "absurd"
+  },
+  {
+    "id": "if-i-said-yes",
+    "text": "If I said yes, I'd be lying to both of us—and my therapist said to stop doing that.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-going-to-respectfully",
+    "text": "I’m going to respectfully decline. It doesn’t align with where I’m heading.",
+    "category": "polite"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "While I appreciate it, attempting this isn't something I can commit to.",
+    "category": "work"
+  },
+  {
+    "id": "this-opportunity-deserves-more",
+    "text": "This opportunity deserves more than I can give it right now.",
+    "category": "work"
+  },
+  {
+    "id": "i-dont-hate-the",
+    "text": "I don’t hate the idea—but I also don’t want to do it.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-not-in-a",
+    "text": "I’m not in a position to commit to this right now.",
+    "category": "work"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "While I appreciate it, exploring this isn't something I can commit to.",
+    "category": "work"
+  },
+  {
+    "id": "ive-made-peace-with",
+    "text": "I’ve made peace with declining things that don’t energize me.",
+    "category": "absurd"
+  },
+  {
+    "id": "even-my-calendar-laughed",
+    "text": "Even my calendar laughed when I tried to squeeze this in.",
+    "category": "work"
+  },
+  {
+    "id": "ive-decided-to-hold",
+    "text": "I’ve decided to hold off on new engagements for the time being.",
+    "category": "absurd"
+  },
+  {
+    "id": "this-feels-like-something",
+    "text": "This feels like something Future Me would yell at Present Me for agreeing to.",
+    "category": "absurd"
+  },
+  {
+    "id": "ive-tried-doing-too",
+    "text": "I’ve tried doing too much before, and this feels like déjà vu.",
+    "category": "absurd"
+  },
+  {
+    "id": "youve-put-great-energy",
+    "text": "You’ve put great energy into this, and I hope you understand my decision to step back.",
+    "category": "polite"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "While I appreciate it, joining this isn't something I can commit to.",
+    "category": "work"
+  },
+  {
+    "id": "this-is-a-great",
+    "text": "This is a great idea—for someone else to take on.",
+    "category": "absurd"
+  },
+  {
+    "id": "the-version-of-me",
+    "text": "The version of me who says yes to this doesn’t exist anymore.",
+    "category": "absurd"
+  },
+  {
+    "id": "even-my-coffee-said",
+    "text": "Even my coffee said, ‘Not today.’",
+    "category": "absurd"
+  },
+  {
+    "id": "my-inner-peace-committee",
+    "text": "My inner peace committee vetoed this idea unanimously.",
+    "category": "work"
+  },
+  {
+    "id": "i-know-how-much",
+    "text": "I know how much this matters, but I can’t give it the attention it deserves.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-had-a-vision",
+    "text": "I had a vision of doing this—and then promptly fell asleep in it.",
+    "category": "absurd"
+  },
+  {
+    "id": "mentally-ive-already-left",
+    "text": "Mentally, I’ve already left the room where this would happen.",
+    "category": "absurd"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "While I appreciate it, accepting this isn't something I can commit to.",
+    "category": "work"
+  },
+  {
+    "id": "this-doesnt-align-with",
+    "text": "This doesn’t align with my values or current focus.",
+    "category": "polite"
+  },
+  {
+    "id": "please-know-that-my",
+    "text": "Please know that my decision isn’t a reflection of you—just my own boundaries.",
+    "category": "polite"
+  },
+  {
+    "id": "i-respect-the-opportunity",
+    "text": "I respect the opportunity, but I know my limits—and this would stretch them too far.",
+    "category": "work"
+  },
+  {
+    "id": "if-i-took-this",
+    "text": "If I took this on, I’d be betraying the time I promised myself.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-once-made-a",
+    "text": "I once made a similar decision and my cat hasn’t looked me in the eye since. Let’s not repeat history.",
+    "category": "absurd"
+  },
+  {
+    "id": "if-i-agree-id",
+    "text": "If I agree, I’d need to clone myself. And I don't trust him.",
+    "category": "absurd"
+  },
+  {
+    "id": "this-one-doesnt-feel",
+    "text": "This one doesn’t feel quite right, so I’ll have to pass.",
+    "category": "absurd"
+  },
+  {
+    "id": "id-rather-say-no",
+    "text": "I'd rather say no with honesty than yes with resentment.",
+    "category": "polite"
+  },
+  {
+    "id": "thanks-for-thinking-of",
+    "text": "Thanks for thinking of me, but I’ll have to pass on this one.",
+    "category": "polite"
+  },
+  {
+    "id": "ive-taken-some-time",
+    "text": "I’ve taken some time to reflect, and I believe passing on this is the right call for now.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-truly-value-our",
+    "text": "I truly value our connection, and I hope my no doesn’t change that.",
+    "category": "absurd"
+  },
+  {
+    "id": "its-not-a-no",
+    "text": "It’s not a no forever, but it’s a no for now.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-enthusiasm-is-sincere",
+    "text": "My enthusiasm is sincere, but my availability is imaginary.",
+    "category": "absurd"
+  },
+  {
+    "id": "while-i-appreciate-it",
+    "text": "While I appreciate it, embracing this isn't something I can commit to.",
+    "category": "work"
+  },
+  {
+    "id": "at-this-point-i",
+    "text": "At this point, I don’t have the bandwidth to do this justice.",
+    "category": "work"
+  },
+  {
+    "id": "ive-learned-to-protect",
+    "text": "I’ve learned to protect my time, and this doesn’t align with how I want to spend it.",
+    "category": "absurd"
+  },
+  {
+    "id": "thats-not-something-i",
+    "text": "That’s not something I can prioritize at the moment.",
+    "category": "work"
+  },
+  {
+    "id": "if-i-said-yes",
+    "text": "If I said yes, the universe might collapse from the shock.",
+    "category": "absurd"
+  },
+  {
+    "id": "if-i-agree-it",
+    "text": "If I agree, it could break the space-time continuum.",
+    "category": "absurd"
+  },
+  {
+    "id": "helping-you-now-could",
+    "text": "Helping you now could create a time paradox—better not risk it.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-cant-im-busy",
+    "text": "I can't, I'm busy preventing a future where I actually say yes.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-calendar-is-aligned",
+    "text": "My calendar is aligned with Jupiter, and the stars say no.",
+    "category": "work"
+  },
+  {
+    "id": "im-pretty-sure-saying",
+    "text": "I'm pretty sure saying yes is forbidden in this galaxy.",
+    "category": "absurd"
+  },
+  {
+    "id": "the-multiverse-would-never",
+    "text": "The multiverse would never forgive me if I complied.",
+    "category": "absurd"
+  },
+  {
+    "id": "any-timeline-where-i",
+    "text": "Any timeline where I say yes ends in chaos, so I'm choosing wisely.",
+    "category": "absurd"
+  },
+  {
+    "id": "me-agreeing-thats-like",
+    "text": "Me agreeing? That's like dividing by zero—dangerous and not allowed.",
+    "category": "absurd"
+  },
+  {
+    "id": "accepting-that-offer-would",
+    "text": "Accepting that offer would cause a glitch in the Matrix.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-currently-booked-for",
+    "text": "I'm currently booked for the next decade in pretending to be productive.",
+    "category": "work"
+  },
+  {
+    "id": "id-love-to-but",
+    "text": "I'd love to, but I'm swamped with counting the ceiling tiles.",
+    "category": "absurd"
+  },
+  {
+    "id": "sorry-im-too-busy",
+    "text": "Sorry, I'm too busy rearranging my sock drawer by color and mood.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-have-a-meeting",
+    "text": "I have a meeting with my couch and it won't take no for an answer.",
+    "category": "work"
+  },
+  {
+    "id": "ive-got-a-calendar",
+    "text": "I've got a calendar alert to sit and stare into space at that exact time.",
+    "category": "work"
+  },
+  {
+    "id": "my-schedule-is-full",
+    "text": "My schedule is full: I'm alphabetizing my snacks.",
+    "category": "work"
+  },
+  {
+    "id": "i-need-to-finish",
+    "text": "I need to finish an intense session of doing nothing at all.",
+    "category": "absurd"
+  },
+  {
+    "id": "ive-a-prior-commitment",
+    "text": "I've a prior commitment to binge-watching paint dry.",
+    "category": "work"
+  },
+  {
+    "id": "im-in-the-middle",
+    "text": "I'm in the middle of a very important procrastination marathon.",
+    "category": "work"
+  },
+  {
+    "id": "i-cant-im-attending",
+    "text": "I can't; I'm attending the opening of my refrigerator.",
+    "category": "absurd"
+  },
+  {
+    "id": "id-help-but-my",
+    "text": "I'd help, but my imaginary friend needs me more.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-cant-my-pet",
+    "text": "I can't; my pet rock is having an emotional crisis.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-goldfish-is-getting",
+    "text": "My goldfish is getting married that day, I have to attend.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-promised-my-imaginary",
+    "text": "I promised my imaginary cat I'd stay home tonight.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-guardian-unicorn-says",
+    "text": "My guardian unicorn says I shouldn't.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-have-to-babysit",
+    "text": "I have to babysit my imaginary friend's imaginary kids.",
+    "category": "absurd"
+  },
+  {
+    "id": "unfortunately-im-volunteering-as",
+    "text": "Unfortunately, I'm volunteering as a taste-tester for my pet's new diet.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-pet-dragon-has",
+    "text": "My pet dragon has a vet appointment, can't miss it.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-grounded-by-my",
+    "text": "I'm grounded by my pet parrot for bad behavior, so I can't go.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-lent-my-time",
+    "text": "I lent my time machine to a friend and now I can't go back and free up this afternoon.",
+    "category": "absurd"
+  },
+  {
+    "id": "ive-made-a-vow",
+    "text": "I've made a vow to avoid any form of productivity.",
+    "category": "absurd"
+  },
+  {
+    "id": "its-against-my-personal",
+    "text": "It's against my personal religion to do anything useful today.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-psychiatrist-advised-me",
+    "text": "My psychiatrist advised me to avoid potentially fun activities.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-swore-an-oath",
+    "text": "I swore an oath that I must decline all requests on a whim.",
+    "category": "polite"
+  },
+  {
+    "id": "i-only-function-on",
+    "text": "I only function on coffee and denial, and I'm out of coffee.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-allergic-to-any",
+    "text": "I'm allergic to any form of responsibility.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-have-a-doctors",
+    "text": "I have a doctor's note that specifically forbids me from helping.",
+    "category": "absurd"
+  },
+  {
+    "id": "id-love-to-help",
+    "text": "I'd love to help, but I'm trying to break my streak of helpfulness.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-procrastination-coach-said",
+    "text": "My procrastination coach said I'm not ready for actual tasks yet.",
+    "category": "work"
+  },
+  {
+    "id": "i-gave-up-saying",
+    "text": "I gave up saying yes for Lent, and it hasn't ended yet.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-have-a-personal",
+    "text": "I have a personal policy of saying no on days ending in 'y'.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-phones-calendar-just",
+    "text": "My phone's calendar just facepalmed at me for even considering it.",
+    "category": "work"
+  },
+  {
+    "id": "i-have-to-update",
+    "text": "I have to update my social media status to 'busy not doing that'.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-currently-trending-towards",
+    "text": "I'm currently trending towards 'no'.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-canti-promised-netflix",
+    "text": "I can't—I promised Netflix I'd stay in and watch movies.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-wi-fi-of-motivation",
+    "text": "My Wi-Fi of motivation has lost connection.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-waiting-for-my",
+    "text": "I'm waiting for my phone to recharge—can't do anything until it's at 100%.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-bio-on-twitter",
+    "text": "My bio on Twitter says 'Often says no', gotta stay on brand.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-busy-searching-for",
+    "text": "I'm busy searching for motivation on Google; no results found.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-stuck-in-an",
+    "text": "I'm stuck in an internet rabbit hole and I can't find the exit.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-cant-come-im",
+    "text": "I can't come; I'm on a Zoom call with my couch.",
+    "category": "work"
+  },
+  {
+    "id": "i-would-love-to",
+    "text": "I would love to, but I'd rather not.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-answer-is-a",
+    "text": "My answer is a no—freshly baked, just for you.",
+    "category": "absurd"
+  },
+  {
+    "id": "ive-considered-it-thoroughly",
+    "text": "I've considered it thoroughly, and I'm going with a hard no.",
+    "category": "absurd"
+  },
+  {
+    "id": "not-even-if-there",
+    "text": "Not even if there were free donuts.",
+    "category": "absurd"
+  },
+  {
+    "id": "this-is-the-part",
+    "text": "This is the part where I say 'no' and we both move on.",
+    "category": "absurd"
+  },
+  {
+    "id": "let-me-check-my",
+    "text": "Let me check my schedule... oh look, it's a permanent no.",
+    "category": "work"
+  },
+  {
+    "id": "im-flattered-you-asked",
+    "text": "I'm flattered you asked, but I'll pass with flying colors.",
+    "category": "polite"
+  },
+  {
+    "id": "ive-reached-my-quota",
+    "text": "I've reached my quota of saying yes for the year.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-too-cool-to",
+    "text": "I'm too cool to say yes to that.",
+    "category": "absurd"
+  },
+  {
+    "id": "as-the-saying-goes",
+    "text": "As the saying goes, 'Nope, nope, nope.'",
+    "category": "absurd"
+  },
+  {
+    "id": "you-dont-want-me",
+    "text": "You don't want me to say yes—trust me, it's for the greater good.",
+    "category": "absurd"
+  },
+  {
+    "id": "the-last-time-i",
+    "text": "The last time I said yes, it rained for 40 days. Not doing that again.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-promised-my-future",
+    "text": "I promised my future self I'd say no to this one.",
+    "category": "absurd"
+  },
+  {
+    "id": "if-i-agreed-id",
+    "text": "If I agreed, I'd have to explain it to my therapist.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-past-experiences-with",
+    "text": "My past experiences with yes have been traumatic.",
+    "category": "absurd"
+  },
+  {
+    "id": "saying-yes-is-on",
+    "text": "Saying yes is on my list of things to quit.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-would-but-then",
+    "text": "I would, but then I'd have to admit I was wrong about hating everything.",
+    "category": "absurd"
+  },
+  {
+    "id": "the-universe-gave-me",
+    "text": "The universe gave me a sign to say no (it was a neon sign, very clear).",
+    "category": "absurd"
+  },
+  {
+    "id": "i-once-said-yes",
+    "text": "I once said yes. It didn't end well. There were llamas involved.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-gut-feeling-and",
+    "text": "My gut feeling and I unanimously voted no.",
+    "category": "polite"
+  },
+  {
+    "id": "that-sounds-like-an",
+    "text": "That sounds like an amazing opportunity... for someone else.",
+    "category": "work"
+  },
+  {
+    "id": "what-a-great-idea",
+    "text": "What a great idea! I'm sad I can't be part of it. Well, not that sad.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-envy-the-people",
+    "text": "I envy the people who will say yes to you, truly.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-absolutely-adore-the",
+    "text": "I absolutely adore the concept, but I'll have to sit this one out.",
+    "category": "absurd"
+  },
+  {
+    "id": "brilliant-plan-unfortunately-im",
+    "text": "Brilliant plan! Unfortunately, I'm in witness protection from good ideas.",
+    "category": "absurd"
+  },
+  {
+    "id": "that-would-be-a",
+    "text": "That would be a dream come true. Too bad I'm awake and saying no.",
+    "category": "absurd"
+  },
+  {
+    "id": "youve-painted-such-a",
+    "text": "You've painted such a lovely picture, I'll admire it from afar.",
+    "category": "absurd"
+  },
+  {
+    "id": "such-a-generous-offer",
+    "text": "Such a generous offer! I'm going to generously decline.",
+    "category": "polite"
+  },
+  {
+    "id": "im-sure-itll-be",
+    "text": "I'm sure it'll be a resounding success, but I'll be a distant admirer.",
+    "category": "absurd"
+  },
+  {
+    "id": "sounds-thrilling-im-already",
+    "text": "Sounds thrilling! I'm already tired just thinking about it.",
+    "category": "absurd"
+  },
+  {
+    "id": "ive-already-changed-into",
+    "text": "I've already changed into my pajamas, so it's a no.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-couch-has-declared",
+    "text": "My couch has declared a no-travel zone and I'm abiding.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-cant-be-bothered",
+    "text": "I can't be bothered to change out of my comfortable blanket burrito.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-saving-my-energy",
+    "text": "I'm saving my energy for an epic nap.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-too-lazy-to",
+    "text": "I'm too lazy to even come up with a good excuse, so just no.",
+    "category": "absurd"
+  },
+  {
+    "id": "moving-from-this-spot",
+    "text": "Moving from this spot requires 24-hour notice.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-conserving-energy-today",
+    "text": "I'm conserving energy today for no particular reason.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-would-but-that",
+    "text": "I would, but that sounds like effort and I'm allergic.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-currently-experiencing-technical",
+    "text": "I'm currently experiencing technical difficulties with moving.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-practicing-for-a",
+    "text": "I'm practicing for a marathon of not moving.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-have-to-wash",
+    "text": "I have to wash my hair that decade.",
+    "category": "absurd"
+  },
+  {
+    "id": "ive-got-to-defrost",
+    "text": "I've got to defrost the iceberg in my freezer.",
+    "category": "absurd"
+  },
+  {
+    "id": "sorry-i-need-to",
+    "text": "Sorry, I need to iron my underwear that night.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-must-attend-to",
+    "text": "I must attend to my garden of plastic flowers.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-fish-needs-a",
+    "text": "My fish needs a walk and it takes priority.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-have-to-rotate",
+    "text": "I have to rotate the tires on my office chair.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-marathoning-a-series",
+    "text": "I'm marathoning a series of doing household chores in my head.",
+    "category": "absurd"
+  },
+  {
+    "id": "the-dishes-threatened-to",
+    "text": "The dishes threatened to revolt if I leave them again.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-fridge-and-i",
+    "text": "My fridge and I have couples therapy at that time.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-need-to-sit",
+    "text": "I need to sit this one out while I sort my sock zoo.",
+    "category": "absurd"
+  },
+  {
+    "id": "in-an-alternate-universe",
+    "text": "In an alternate universe, I totally did that. Just not in this one.",
+    "category": "absurd"
+  },
+  {
+    "id": "maybe-in-my-next",
+    "text": "Maybe in my next life I'll consider it, but current me says no.",
+    "category": "absurd"
+  },
+  {
+    "id": "in-a-parallel-dimension",
+    "text": "In a parallel dimension I'm already on it—too bad we're here.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-consulted-my-alternate",
+    "text": "I consulted my alternate self; they also declined.",
+    "category": "polite"
+  },
+  {
+    "id": "if-i-clone-myself",
+    "text": "If I clone myself, I'll send the clone. Until then, no.",
+    "category": "absurd"
+  },
+  {
+    "id": "i-checked-with-future",
+    "text": "I checked with future me, and they rolled their eyes, so I'll pass.",
+    "category": "absurd"
+  },
+  {
+    "id": "im-stuck-in-a",
+    "text": "I'm stuck in a time loop of saying no.",
+    "category": "absurd"
+  },
+  {
+    "id": "in-an-alternate-timeline",
+    "text": "In an alternate timeline I said yes, and it caused a zombie apocalypse.",
+    "category": "absurd"
+  },
+  {
+    "id": "my-evil-twin-might",
+    "text": "My evil twin might be interested; ask them instead.",
+    "category": "absurd"
+  }
+]

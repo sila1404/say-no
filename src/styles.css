@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap");
+@import "tailwindcss";
+
+:root {
+  --canvas: #fdfcfc;
+  --ink: #201d1d;
+  --ink-deep: #0f0000;
+  --body: #424245;
+  --mute: #646262;
+  --hairline: rgba(15, 0, 0, 0.12);
+  --hairline-strong: #646262;
+  --surface-soft: #f8f7f7;
+  --surface-card: #f1eeee;
+  --surface-dark: #201d1d;
+  --surface-dark-elevated: #302c2c;
+  --on-dark: #fdfcfc;
+  --ash: #9a9898;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --canvas: #201d1d;
+    --ink: #fdfcfc;
+    --ink-deep: #f1eeee;
+    --body: #9a9898;
+    --mute: #9a9898;
+    --hairline: rgba(255, 255, 255, 0.12);
+    --hairline-strong: #9a9898;
+    --surface-soft: #302c2c;
+    --surface-card: #302c2c;
+    --surface-dark: #fdfcfc;
+    --surface-dark-elevated: #f1eeee;
+    --on-dark: #201d1d;
+    --ash: #646262;
+  }
+}
+
+:root.dark {
+  --canvas: #201d1d;
+  --ink: #fdfcfc;
+  --ink-deep: #f1eeee;
+  --body: #9a9898;
+  --mute: #9a9898;
+  --hairline: rgba(255, 255, 255, 0.12);
+  --hairline-strong: #9a9898;
+  --surface-soft: #302c2c;
+  --surface-card: #302c2c;
+  --surface-dark: #fdfcfc;
+  --surface-dark-elevated: #f1eeee;
+  --on-dark: #201d1d;
+  --ash: #646262;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "JetBrains Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular,
+    Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  background-color: var(--canvas);
+  color: var(--ink);
+}
+
+button {
+  cursor: pointer;
+}
