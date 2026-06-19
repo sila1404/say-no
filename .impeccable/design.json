@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-06-19T02:41:41.930Z",
+  "title": "Design System: Say No",
+  "extensions": {
+    "colorMeta": {
+      "canvas": {
+        "role": "neutral",
+        "displayName": "Cream Canvas",
+        "canonical": "#fdfcfc",
+        "tonalRamp": [
+          "#0F0000",
+          "#312424",
+          "#534848",
+          "#756C6C",
+          "#979090",
+          "#B9B4B4",
+          "#DBD8D8",
+          "#FDFCFC"
+        ]
+      },
+      "ink": {
+        "role": "primary",
+        "displayName": "Warm Ink",
+        "canonical": "#201d1d",
+        "tonalRamp": [
+          "#0F0000",
+          "#312424",
+          "#534848",
+          "#756C6C",
+          "#979090",
+          "#B9B4B4",
+          "#DBD8D8",
+          "#FDFCFC"
+        ]
+      },
+      "body": {
+        "role": "neutral",
+        "displayName": "Body Gray",
+        "canonical": "#424245",
+        "tonalRamp": [
+          "#0F0000",
+          "#231616",
+          "#372B2B",
+          "#4B4141",
+          "#5E5757",
+          "#726D6D",
+          "#868282",
+          "#9A9898"
+        ]
+      },
+      "mute": {
+        "role": "neutral",
+        "displayName": "Muted Gray",
+        "canonical": "#646262",
+        "tonalRamp": [
+          "#0F0000",
+          "#291C1C",
+          "#433737",
+          "#5D5353",
+          "#766F6F",
+          "#908B8B",
+          "#AAA6A6",
+          "#C4C2C2"
+        ]
+      },
+      "surface-card": {
+        "role": "neutral",
+        "displayName": "Card Surface",
+        "canonical": "#f1eeee",
+        "tonalRamp": [
+          "#0F0000",
+          "#2F2222",
+          "#504444",
+          "#706666",
+          "#908888",
+          "#B0AAAA",
+          "#D1CCCC",
+          "#F1EEEE"
+        ]
+      },
+      "surface-dark": {
+        "role": "neutral",
+        "displayName": "Dark Surface",
+        "canonical": "#201d1d",
+        "tonalRamp": [
+          "#000000",
+          "#09090A",
+          "#131314",
+          "#1C1C1E",
+          "#262627",
+          "#2F2F31",
+          "#39393B",
+          "#424245"
+        ]
+      },
+      "ash": {
+        "role": "neutral",
+        "displayName": "Ash",
+        "canonical": "#9a9898",
+        "tonalRamp": [
+          "#0F0000",
+          "#291C1C",
+          "#433737",
+          "#5D5353",
+          "#766F6F",
+          "#908B8B",
+          "#AAA6A6",
+          "#C4C2C2"
+        ]
+      },
+      "danger": {
+        "role": "semantic",
+        "displayName": "Danger Red",
+        "canonical": "#ff3b30",
+        "tonalRamp": [
+          "#330500",
+          "#50211D",
+          "#6D3E39",
+          "#8A5A56",
+          "#A87672",
+          "#C5928F",
+          "#E2AFAB",
+          "#FFCBC8"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero headline and 404 number."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Section labels with bracket prefixes."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Generated excuse copy and descriptions."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Button labels, filter chips, inline emphasis."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Footer metadata and the locale select."
+      }
+    },
+    "shadows": [
+      {
+        "name": "state-shadow",
+        "value": "0 1px 2px rgba(15, 0, 0, 0.08)",
+        "purpose": "Optional hover/focus shadow on raised controls."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-standard",
+        "value": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "purpose": "Default easing for state transitions and color fades."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "sm",
+        "value": "640px"
+      },
+      {
+        "name": "md",
+        "value": "768px"
+      },
+      {
+        "name": "lg",
+        "value": "1024px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Main action button for generating a new excuse.",
+      "html": "<button class=\"ds-btn-primary\">[+] Generate excuse</button>",
+      "css": ".ds-btn-primary {\n  font-family: JetBrains Mono, IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n  font-size: 16px;\n  font-weight: 500;\n  line-height: 1.5;\n  color: var(--canvas);\n  background-color: var(--ink);\n  border: 1px solid var(--ink);\n  border-radius: 4px;\n  padding: 4px 20px;\n  cursor: pointer;\n  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1), border-color 150ms cubic-bezier(0.4, 0, 0.2, 1);\n}\n.ds-btn-primary:hover {\n  background-color: var(--ink-deep);\n  border-color: var(--ink-deep);\n}\n.ds-btn-primary:focus-visible {\n  outline: 2px solid var(--ink);\n  outline-offset: 2px;\n}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Lower-emphasis action, typically copy-to-clipboard.",
+      "html": "<button class=\"ds-btn-secondary\">[-] Copy</button>",
+      "css": ".ds-btn-secondary {\n  font-family: JetBrains Mono, IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n  font-size: 16px;\n  font-weight: 500;\n  line-height: 1.5;\n  color: var(--ink);\n  background-color: var(--canvas);\n  border: 1px solid var(--hairline-strong);\n  border-radius: 4px;\n  padding: 4px 20px;\n  cursor: pointer;\n  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1), border-color 150ms cubic-bezier(0.4, 0, 0.2, 1);\n}\n.ds-btn-secondary:hover {\n  background-color: var(--surface-soft);\n}\n.ds-btn-secondary:focus-visible {\n  outline: 2px solid var(--ink);\n  outline-offset: 2px;\n}"
+    },
+    {
+      "name": "Filter Chip",
+      "kind": "chip",
+      "refersTo": "filter-chip",
+      "description": "Selectable category filter.",
+      "html": "<button class=\"ds-chip\">[ ] absurd</button><button class=\"ds-chip ds-chip-selected\">[x] polite</button>",
+      "css": ".ds-chip {\n  font-family: JetBrains Mono, IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n  font-size: 16px;\n  font-weight: 500;\n  line-height: 1.5;\n  color: var(--ink);\n  background-color: var(--surface-card);\n  border: 1px solid var(--hairline);\n  border-radius: 4px;\n  padding: 4px 16px;\n  cursor: pointer;\n  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1), border-color 150ms cubic-bezier(0.4, 0, 0.2, 1), color 150ms cubic-bezier(0.4, 0, 0.2, 1);\n}\n.ds-chip:hover {\n  background-color: var(--surface-soft);\n}\n.ds-chip-selected {\n  color: var(--canvas);\n  background-color: var(--ink);\n  border-color: var(--ink);\n}\n.ds-chip-selected:hover {\n  background-color: var(--ink-deep);\n  border-color: var(--ink-deep);\n}\n.ds-chip:focus-visible {\n  outline: 2px solid var(--ink);\n  outline-offset: 2px;\n}"
+    },
+    {
+      "name": "Output Card",
+      "kind": "card",
+      "refersTo": "output-card",
+      "description": "Dark card that displays the generated excuse.",
+      "html": "<div class=\"ds-output-card\"><div class=\"ds-output-pill\">$ generate --locale=en --category=absurd</div><blockquote class=\"ds-output-quote\">My inner peace committee vetoed this idea unanimously.</blockquote><span class=\"ds-output-badge\">[absurd]</span></div>",
+      "css": ".ds-output-card {\n  font-family: JetBrains Mono, IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n  color: var(--on-dark);\n  background-color: var(--surface-dark);\n  border-radius: 0;\n  padding: 32px;\n}\n.ds-output-pill {\n  display: inline-block;\n  font-size: 14px;\n  color: var(--ash);\n  background-color: var(--surface-dark-elevated);\n  border-radius: 4px;\n  padding: 8px 12px;\n  margin-bottom: 24px;\n}\n.ds-output-quote {\n  font-size: 24px;\n  font-weight: 500;\n  line-height: 1.5;\n  margin: 0 0 24px;\n}\n.ds-output-badge {\n  display: inline-block;\n  font-size: 14px;\n  font-weight: 500;\n  color: var(--on-dark);\n  background-color: var(--surface-dark-elevated);\n  border-radius: 4px;\n  padding: 2px 8px;\n}"
+    },
+    {
+      "name": "Locale Select",
+      "kind": "input",
+      "refersTo": "locale-select",
+      "description": "Language switcher control.",
+      "html": "<select class=\"ds-select\" aria-label=\"Language\"><option>EN</option><option>DE</option></select>",
+      "css": ".ds-select {\n  font-family: JetBrains Mono, IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n  font-size: 14px;\n  font-weight: 500;\n  line-height: 1.5;\n  text-transform: uppercase;\n  letter-spacing: 0.05em;\n  color: var(--ink);\n  background-color: var(--surface-card);\n  border: 1px solid var(--hairline);\n  border-radius: 4px;\n  padding: 4px 12px;\n  cursor: pointer;\n}\n.ds-select:focus-visible {\n  outline: 2px solid var(--ink);\n  outline-offset: 2px;\n}"
+    },
+    {
+      "name": "Header",
+      "kind": "nav",
+      "refersTo": "header",
+      "description": "Top bar with wordmark and controls.",
+      "html": "<header class=\"ds-header\"><span class=\"ds-wordmark\">[say-no]</span><div class=\"ds-header-controls\"><button class=\"ds-btn-ghost\">[L]</button><select class=\"ds-select\"><option>EN</option></select></div></header>",
+      "css": ".ds-header {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 16px;\n  padding-bottom: 16px;\n  border-bottom: 1px solid var(--hairline);\n}\n.ds-wordmark {\n  font-family: JetBrains Mono, IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n  font-size: 16px;\n  font-weight: 700;\n  letter-spacing: -0.025em;\n  color: var(--ink);\n}\n.ds-header-controls {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n}\n.ds-btn-ghost {\n  font-family: JetBrains Mono, IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n  font-size: 16px;\n  font-weight: 500;\n  color: var(--ink);\n  background: transparent;\n  border: none;\n  border-radius: 4px;\n  padding: 4px 8px;\n  cursor: pointer;\n}\n.ds-btn-ghost:focus-visible {\n  outline: 2px solid var(--ink);\n  outline-offset: 2px;\n}"
+    },
+    {
+      "name": "Error Message",
+      "kind": "custom",
+      "refersTo": "error-text",
+      "description": "Inline error text inside the output card.",
+      "html": "<p class=\"ds-error\">[x] Failed to load excuse.</p>",
+      "css": ".ds-error {\n  font-family: JetBrains Mono, IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n  font-size: 16px;\n  line-height: 1.5;\n  color: #ff3b30;\n}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Friendly Terminal",
+    "overview": "Say No reads like a helpful little console that happens to dispense rejections. The entire interface is set in a single monospaced face, sits on a warm cream canvas, and relies on ASCII bracket glyphs instead of icons. The aesthetic is deadpan but warm: the joke lives in the generated words, not in decoration.",
+    "keyCharacteristics": [
+      "100% JetBrains Mono across every text role.",
+      "Warm cream canvas (#fdfcfc) in light mode; near-black (#201d1d) in dark mode.",
+      "Flat, shadowless surfaces at rest; depth via the dark output card and tonal layers.",
+      "ASCII bracket markers ([+], [-], [x], [ ], [v]) as the only iconography and state labels.",
+      "4px radius on interactive elements; 0px radius on containers and the output card.",
+      "A single saturated accent, reserved for errors: #ff3b30."
+    ],
+    "rules": [
+      {
+        "name": "The One Accent Rule",
+        "body": "Only the danger color is saturated. Everything else stays inside the warm ink/canvas/ash family.",
+        "section": "colors"
+      },
+      {
+        "name": "The Mono-Everywhere Rule",
+        "body": "Every text role is rendered in JetBrains Mono.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat-By-Default Rule",
+        "body": "If an element is not hovered, focused, or pressed, it casts no shadow.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Render every text role in JetBrains Mono.",
+      "Use 4px radius on buttons, selects, and filter chips.",
+      "Keep the output card as the single dark inversion on the page.",
+      "Use ASCII brackets for icons, bullets, and selection state.",
+      "Pair the warm cream canvas with near-black ink.",
+      "Honor prefers-reduced-motion.",
+      "Reserve #ff3b30 for error text only."
+    ],
+    "donts": [
+      "Introduce a second font, display face, or italic style.",
+      "Use side-stripe borders greater than 1px as colored accents.",
+      "Use gradient text or glassmorphism.",
+      "Add celebratory confetti, bounce, or elastic motion.",
+      "Default to generic SaaS cream/blue landing-page aesthetics.",
+      "Adopt a corporate / earnest self-help tone in visuals or copy.",
+      "Use shadows as decoration; shadows are state feedback only.",
+      "Put saturated accent colors on CTAs or marketing chrome."
+    ]
+  }
+}
