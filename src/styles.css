@@ -15,6 +15,8 @@
   --surface-dark-elevated: #302c2c;
   --on-dark: #fdfcfc;
   --ash: #9a9898;
+  --danger: #ff3b30;
+  --ease-standard: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -32,6 +34,7 @@
     --surface-dark-elevated: #f1eeee;
     --on-dark: #201d1d;
     --ash: #646262;
+    --danger: #ff3b30;
   }
 }
 
@@ -49,6 +52,7 @@
   --surface-dark-elevated: #f1eeee;
   --on-dark: #201d1d;
   --ash: #646262;
+  --danger: #ff3b30;
 }
 
 * {
@@ -63,12 +67,173 @@ body,
 
 body {
   margin: 0;
-  font-family: "JetBrains Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular,
-    Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family:
+    "JetBrains Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo,
+    Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   background-color: var(--canvas);
   color: var(--ink);
 }
 
 button {
   cursor: pointer;
+}
+
+button:focus-visible,
+a:focus-visible,
+select:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+
+.ds-btn-primary {
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--canvas);
+  background-color: var(--ink);
+  border: 1px solid var(--ink);
+  border-radius: 4px;
+  padding: 4px 20px;
+  transition:
+    background-color 150ms var(--ease-standard),
+    border-color 150ms var(--ease-standard);
+}
+
+.ds-btn-primary:hover:not(:disabled) {
+  background-color: var(--ink-deep);
+  border-color: var(--ink-deep);
+}
+
+.ds-btn-primary:disabled {
+  background-color: var(--surface-card);
+  color: var(--ash);
+  border-color: var(--surface-card);
+  cursor: not-allowed;
+}
+
+.ds-btn-secondary {
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--ink);
+  background-color: var(--canvas);
+  border: 1px solid var(--hairline-strong);
+  border-radius: 4px;
+  padding: 4px 20px;
+  transition:
+    background-color 150ms var(--ease-standard),
+    border-color 150ms var(--ease-standard);
+}
+
+.ds-btn-secondary:hover:not(:disabled) {
+  background-color: var(--surface-soft);
+}
+
+.ds-btn-secondary:disabled {
+  background-color: var(--surface-card);
+  color: var(--ash);
+  border-color: var(--surface-card);
+  cursor: not-allowed;
+}
+
+.ds-btn-inverse {
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--surface-dark);
+  background-color: var(--on-dark);
+  border: 1px solid var(--on-dark);
+  border-radius: 4px;
+  padding: 4px 20px;
+  transition:
+    background-color 150ms var(--ease-standard),
+    border-color 150ms var(--ease-standard);
+}
+
+.ds-btn-inverse:hover:not(:disabled) {
+  background-color: var(--surface-dark-elevated);
+  border-color: var(--surface-dark-elevated);
+  color: var(--on-dark);
+}
+
+.ds-btn-ghost {
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--ink);
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 4px 8px;
+  transition: background-color 150ms var(--ease-standard);
+}
+
+.ds-btn-ghost:hover {
+  background-color: var(--surface-soft);
+}
+
+.ds-chip {
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: var(--ink);
+  background-color: var(--surface-card);
+  border: 1px solid var(--hairline);
+  border-radius: 4px;
+  padding: 4px 16px;
+  cursor: pointer;
+  transition:
+    background-color 150ms var(--ease-standard),
+    border-color 150ms var(--ease-standard),
+    color 150ms var(--ease-standard);
+}
+
+.ds-chip:hover:not(.ds-chip-selected) {
+  background-color: var(--surface-soft);
+}
+
+.ds-chip-selected {
+  color: var(--canvas);
+  background-color: var(--ink);
+  border-color: var(--ink);
+}
+
+.ds-chip-selected:hover {
+  background-color: var(--ink-deep);
+  border-color: var(--ink-deep);
+}
+
+.ds-output-card {
+  min-height: 240px;
+  padding: 32px;
+  color: var(--on-dark);
+  background-color: var(--surface-dark);
+}
+
+.ds-select {
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink);
+  background-color: var(--surface-card);
+  border: 1px solid var(--hairline);
+  border-radius: 4px;
+  padding: 4px 12px;
+  cursor: pointer;
+  transition:
+    background-color 150ms var(--ease-standard),
+    border-color 150ms var(--ease-standard);
+}
+
+.ds-select:hover {
+  background-color: var(--surface-soft);
 }
