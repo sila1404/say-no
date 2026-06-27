@@ -7,7 +7,7 @@ export default function LocaleSwitcher() {
   return (
     <select
       value={currentLocale}
-      onChange={(e) => setLocale(e.target.value)}
+      onChange={(e) => setLocale(e.target.value as (typeof locales)[number])}
       aria-label={m.language_label()}
       className="ds-select"
     >
